@@ -21,8 +21,8 @@ To write a program to predict the price of the house and number of occupants in 
 ## Program:
 ```
 /*
-Developed by: SUBIKSHA K
-RegisterNumber: 212224040332
+Developed by: Akshaikhanna D
+RegisterNumber: 212223040010
 
 import numpy as np
 from sklearn.datasets import fetch_california_housing
